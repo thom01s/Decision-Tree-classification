@@ -24,7 +24,7 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/thom01s/Decision-Tree-classification-iris-dataset/fork>)
+1. Fork it (<https://github.com/thom01s/Decision-Tree-classification/fork>)
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
